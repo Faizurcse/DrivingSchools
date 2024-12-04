@@ -1,0 +1,27 @@
+{
+    "analytics": [
+      { "title": "Total Page Views", "count": "4,42,236", "percentage": 59.3, "extra": "35,000" },
+      { "title": "Total Users", "count": "78,250", "percentage": 70.5, "extra": "8,900" },
+      { "title": "Total Order", "count": "18,800", "percentage": 27.4, "isLoss": true, "color": "warning", "extra": "1,943" },
+      { "title": "Total Sales", "count": "$35,078", "percentage": 27.4, "isLoss": true, "color": "warning", "extra": "$20,395" }
+    ],
+    "transactions": [
+      { "id": "#002434", "time": "Today, 2:00 AM", "amount": "+ $1,430", "percentage": "78%", "icon": "GiftOutlined" },
+      { "id": "#984947", "time": "5 August, 1:45 PM", "amount": "+ $302", "percentage": "8%", "icon": "MessageOutlined" },
+      { "id": "#988784", "time": "7 hours ago", "amount": "+ $682", "percentage": "16%", "icon": "SettingOutlined" }
+    ],
+    "statistics": {
+      "weeklyIncome": "$7,650",
+      "helpSupport": {
+        "title": "Help & Support Chat",
+        "description": "Typical reply within 5 min",
+        "avatars": [
+          { "name": "Remy Sharp", "src": "assets/images/users/avatar-1.png" },
+          { "name": "Travis Howard", "src": "assets/images/users/avatar-2.png" },
+          { "name": "Cindy Baker", "src": "assets/images/users/avatar-3.png" },
+          { "name": "Agnes Walker", "src": "assets/images/users/avatar-4.png" }
+        ]
+      }
+    }
+  }
+  

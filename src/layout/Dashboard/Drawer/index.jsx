@@ -31,6 +31,7 @@ export default function MainDrawer({ window }) {
     <Box component="nav" sx={{ flexShrink: { md: 0 }, zIndex: 1200 }} aria-label="mailbox folders">
       {!matchDownMD ? (
         <MiniDrawerStyled variant="permanent" open={drawerOpen}>
+        
           {drawerHeader}
           {drawerContent}
         </MiniDrawerStyled>
